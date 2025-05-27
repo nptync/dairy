@@ -8,7 +8,7 @@
 [4月](./04/README.md)<br>
 残業多し。そして昇給<br>
 [5月](./05/README.md)<br>
-今のところパッとしない<br><br><br><br>
+生活の微改善、エンジニアリングへの意識改革<br><br><br><br>
 ↓まだだよ↓<br>
 [6月](./06/README.md)<br>
 [7月](./07/README.md)<br>
